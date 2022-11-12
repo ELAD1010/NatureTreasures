@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nature_treasures:items/bedronic_pickaxe"
+  }
+}
